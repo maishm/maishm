@@ -1,6 +1,11 @@
 ### Hi, I'm Maish 👋
 
-I'm a data scientist, working to make various aspects of this world better by utilising data. I have a wide range of interests, so getting to work on problems in different domains as a data scientist is the most thrilling aspect of being in this field.
+I'm a data scientist working on the end-to-end process of making data useful. 
+Most recently, I've been working on aspects of user behaviour, growth and marketing. 
 
--  I’m currently working on using data and behavioural nudges to make large scale marketing & ad campaigns more effective.
+You can find me on [Linkedin](https://www.linkedin.com/in/maishmaseeh/) and read some of my unstructured thoughts on my [blog.](https://notes.maishmaseeh.com/main)
+
+
+
+
 
